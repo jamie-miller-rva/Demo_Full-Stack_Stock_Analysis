@@ -1,0 +1,20 @@
+/* card styling */
+
+.card-img-top {
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 80px;
+    float: left;
+}
+
+.apple {
+    height: 100px;
+}
+
+.amd {
+    height: 100px;
+}
+
+.stocks {
+    height: 100%;
+}
