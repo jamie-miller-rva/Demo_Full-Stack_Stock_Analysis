@@ -1,20 +1,14 @@
 /* card styling */
 
-.card-img-top {
-    box-sizing: border-box;
-    border: 1px solid black;
-    width: 80px;
-    float: left;
+.stock_image {
+    height: 80px;
+    width: 70px;
 }
 
-.apple {
-    height: 100px;
+.card-text>p {
+    font-size: x-small;
 }
 
-.amd {
-    height: 100px;
-}
-
-.stocks {
-    height: 100%;
+.list-group-item card-title {
+    font-weight: bold;
 }
